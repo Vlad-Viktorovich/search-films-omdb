@@ -1,0 +1,18 @@
+.headerContainer{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: lightblue;
+  align-items: center;
+  width: 100%;
+  padding: 10px 0;
+
+
+  .name{
+    display: block;
+    font-weight: bold;
+    font-size: 24px;
+    width: 200px;
+  }
+}
